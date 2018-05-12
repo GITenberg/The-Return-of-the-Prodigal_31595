@@ -1,0 +1,33 @@
+_repo: The-Return-of-the-Prodigal_31595
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31595-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sinclair, May
+    alias: Sinclair, Mary Amelia St. Clair
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '3004'
+    url: http://www.gutenberg.org/2009/agents/3004
+    wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
+description: ''
+gutenberg_issued: '2010-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31595'
+  lccn: '14010423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: The return of the prodigal -- The gift -- The fault -- Wilkinson's
+  wife -- Miss Tarrant's temperament -- Appearances -- The Wrackham memoirs -- The
+  cosmopolitan.
+title: The Return of the Prodigal
+url: http://www.gutenberg.org/ebooks/31595
